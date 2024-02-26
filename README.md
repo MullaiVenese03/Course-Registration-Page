@@ -31,4 +31,4 @@ git clone https://github.com/MullaiVenese03/Course-Registration-Page-Project.git
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [🤍MullaiVenese](https://github.com/MullaiVenese03/).
