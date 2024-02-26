@@ -16,7 +16,7 @@ Feel free to explore the website and register for the course to experience the s
 To get started with the project, simply clone this repository to your local machine and open the `index.html` file in your web browser. You can also explore the `register.html` file to view the registration page.
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/MullaiVenese03/Course-Registration-Page-Project.git
 ```
 
 ## Usage
