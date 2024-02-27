@@ -24,6 +24,7 @@ git clone https://github.com/MullaiVenese03/Course-Registration-Page-Project.git
 1. Open `index.html` in your web browser to explore the sample course file.
 2. Navigate to `register.html` to access the registration page.
 3. Follow the prompts to register for the course.
+[LIVE](https://mullaivenese03.github.io/Course-Registration-Page-Project/)
 
 ## Contributors
 
