@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to My First Website!
 
 Welcome to my first venture into web development! This repository contains the source code for my debut website, which showcases a sample course file and provides a user-friendly registration process.
@@ -69,4 +68,3 @@ git clone https://github.com/MullaiVenese03/Course-Registration-Page-Project.git
 ## License
 
 This project is licensed under the [🤍MullaiVenese](https://github.com/MullaiVenese03/).
->>>>>>> 7982267e6d4d1153afac0f6ebb1db9878140f7ee
